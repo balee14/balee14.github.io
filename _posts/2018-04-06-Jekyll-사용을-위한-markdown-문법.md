@@ -5,7 +5,7 @@ title: "편안한 Jekyll 사용을 위한 마크다운(markdown) 문법"
 
 Github Pages 운용을 위해서는 **markdown** 문법에 대한 이해도가 요구되며, [[공통] 마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)을 참고하여 작성하였습니다.
 
-~~제가 주로 사용하는 Syntax 위주로 작성하였습니다.~~
+~~제가 주로 사용하는 Syntax 위주로 작성하였습니다.11~~
 
 ## 1. Header & Sub-Header
 
